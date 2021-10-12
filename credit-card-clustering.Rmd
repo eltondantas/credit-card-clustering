@@ -1,0 +1,14 @@
+---
+title: "Análise de Agrupamentos"
+author: "Elton Dantas de Oliveira Mesquita"
+date: "12/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Objetivo
+
+A análise de agrupamentos, também conhecida como análise de conglomerados, classificação ou cluster, tem como objetivo dividir os elementos da amostra, ou população, em grupos de forma que os elementos pertencentes a um mesmo grupo sejam similares entre si com respeito às variáveis (caractéristicas) que neles foram medidas, e os elementos em grupos diferentes sejam heterogêneos em relação a estas mesmas características.
